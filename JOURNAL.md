@@ -19,3 +19,9 @@ Current BOM (with no bills)
 - Custom PCB for the Disc
   
 **Total time spent: 30 mins**
+
+# June 4th: Refining Ideas and Starting the PCB
+After a bit of a break, I was inspired by @dld Minecraft Jukebox that used NFC tags for the vinyls. Instead of playing songs of them, it would be cool each vinyl was a profile and you can track their listening instead. Now that I have a clear idea of what I wanted, I started my schematic. I spent a lot of my time looking at parts, so I only placed my microcontroller and switches.
+![image](https://github.com/user-attachments/assets/4eebf08a-31f0-4839-9db3-a5cf2134727e)
+
+**Total time spent: 1 hour**
